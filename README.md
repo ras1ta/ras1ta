@@ -26,3 +26,4 @@
 <p align="center">
   <img src="https://cs19.pikabu.ru/s/2026/08/07/17/jgodxoyn.jpg" alt="Footer Banner" width="100%">
 </p>
+cr art: tw dellediary
