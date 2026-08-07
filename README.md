@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/736x/b1/b1/20/b1b1202a3b4fc6d2e68b8f619b74e344.jpg" alt="Banner" width="100%">
+  <img src="https://cs20.pikabu.ru/s/2026/08/07/17/jwoco34b_lg.jpg" alt="Banner" width="100%">
 </p>
 <p align="center">
   <span style="color: #B0E0E6; font-size: 18;">Hihello there! ᵔᴗᵔ ❀</span><br>
@@ -12,5 +12,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/9c/67/9d/9c679d6e60a935968c0db2b58e9e1669.jpg" alt="Footer Banner" width="100%">
+  <img src="https://cs19.pikabu.ru/s/2026/08/07/17/jgodxoyn.jpg" alt="Footer Banner" width="100%">
 </p>
