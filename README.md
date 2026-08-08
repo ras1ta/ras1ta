@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <sub>${\Huge \text{\color{#FFA500}Im open to meeting new people!}}$</sub><br>
+  <sub>${\Huge \text{\color{#FFA500}Dont mind meeting new people}}$</sub><br>
   <sub>${\Huge\text{\color{#AFEEEE}С+H and INT}}$</sub><br>
   <sub>${\Huge \text{\color{#E0FFFF}ESTP so8w7 lol}}$</sub>
 </p>
 
 <p align="center">
-  <sub>${\Huge \text{\color{#FFDEAD}tg ingo: infd3str ;; ds: ras1ta}}$</sub><br>
+  <sub>${\Huge \text{\color{#FFDEAD}tg info: infd3str ;; ds: ras1ta}}$</sub><br>
   <sub>${\Huge \text{\color{#FFF8DC}я раняю запад уу я раняю запад аа}}$</sub><br>
 </p> 
 
