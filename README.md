@@ -6,7 +6,7 @@
 
 <p align="center">
   <sub>${\Huge \text{\color{#B0E0E6} >HIHELLO there! ᵔᴗᵔ }}$</sub><br>
-  <sub>${\Huge \text{\color{#5F9EA0}\large \textbf{➜ R̲a̲s̲t̲a̲ (He\Her || He\Him)}}}$</sub><br><br>
+  <sub>${\Huge \text{\color{#5F9EA0}\large \textbf{➜ R̲a̲s̲t̲a̲ (She\Her || He\Him)}}}$</sub><br><br>
 </p>
 
 <p align="center">
