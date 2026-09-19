@@ -12,7 +12,7 @@
 <p align="center">
   <sub>${\Huge \text{\color{#FFA500}Dont mind meeting new people!}}$</sub><br>
   <sub>${\Huge\text{\color{#AFEEEE}С+H and INT}}$</sub><br>
-  <sub>${\Huge \text{\color{#E0FFFF}ESTP so8w7 lol}}$</sub>
+  <sub>${\Huge \text{\color{#E0FFFF}ESTP sp8w7 lol}}$</sub>
 </p>
 
 <p align="center">
