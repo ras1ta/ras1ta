@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://cs20.pikabu.ru/s/2026/08/07/17/jwoco34b_lg.jpg" alt="Banner" width="100%">
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/cf/d3/51/cfd3517f2b4f0d6a928d00677093a813.jpg" alt="Banner" width="100%">
+  <img src=" " alt="Banner" width="100%">
 </p>
 
 <p align="center">
